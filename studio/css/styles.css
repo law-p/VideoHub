@@ -1,0 +1,46 @@
+ /* header styles */
+header{
+background-color: #ECEFF1;
+ }
+
+ header .navbar{
+    padding: 25px;
+}
+
+
+.navbar-nav1, .navbar-nav2{
+    flex-direction: row;
+}
+
+.btn3{
+    color: #007bff;
+    border: none;
+}
+
+.btn3:hover{
+    color: black;
+    border-bottom:1px solid #7e107e;
+    border-radius: 0px;
+}
+
+.btn1{
+    color: white;
+    background-color: #007bff;
+}
+
+.btn1:hover{
+    color: black;
+}
+
+.btn2{
+    background-color: #ECEFF1;
+}
+
+.btn2:hover{
+    color: black;
+}
+
+
+
+
+
